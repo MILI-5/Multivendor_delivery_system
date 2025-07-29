@@ -15,11 +15,11 @@ DeliveryHub is a modern, scalable multi-vendor delivery platform admin panel. It
 
 ### Dashboard Overview
 
-![Dashboard Overview](./assets/dashboard-overview.png)
+![Dashboard Overview](./assets/dashboard-overview.jpg)
 
 ### Recent Activity
 
-![Recent Activity](./assets/recent-activity.png)
+![Recent Activity](./assets/recent-activity.jpg)
 
 > **Note:** Place the above images in an `assets` folder at the root of your project as `dashboard-overview.png` and `recent-activity.png`.
 
